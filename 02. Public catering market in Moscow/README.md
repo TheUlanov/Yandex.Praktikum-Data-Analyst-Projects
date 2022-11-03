@@ -1,5 +1,6 @@
-<br><b>Проект №2</b>
-<br> <b>Заказчик</b>: Инвестиционный фонд
-<br> <b>Задача</b>: Заказчик хочет открыть новое направление деятельности. В связи с чем, собирается открыть общественного питания в Москве. Необходимо подготовить исследование рынка общественного питания в Москве, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места. Дать рекомендации заказчику по выбору типа заведения и места размещения.
-<br><b>Результат</b>: Выявлен конкретный список требований для открытия нового направления деятельности
-<br><b>Статус</b>: Завершен
+<b>Project №2</b>
+<br> <b>Customer</b>: Investment Fund
+<br> <b>Task</b>: The customer wants to open a new line of activity. In this connection, he is going to open a public catering in Moscow. It is necessary to prepare a study of the catering market in Moscow, find interesting features and present the results obtained, which in the future will help in choosing a suitable place for investors. Give recommendations to the customer on the choice of the type of institution and location.
+<br><b>Result</b>: A specific list of requirements for opening a new line of activity has been identified
+<br><b>Status</b>: Completed
+<br><b>Used libraries</b>: Python, Pandas, Matplotlib.pyplot, Plotly.express, Seaborn, Map, Marker, Choropleth, MarkerCluster
