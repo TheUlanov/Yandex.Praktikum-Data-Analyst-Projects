@@ -1,6 +1,7 @@
-<br><b>Проект №3</b>
-<br><b>Заказчик</b>: Стартап, который продаёт продукты питания.
-<br><b>Задача</b>: Нужно разобраться, как ведут себя пользователи мобильного приложения. Изучить воронку продаж. Узнайть, как пользователи доходят до покупки. Сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах? На каких именно?
-После этого исследовать результаты A/A/B-эксперимента. Дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. 
-<br><b>Результат</b>: Выявлены особенности поведения пользователей, проанализированы результаты А/В тестов
-<br><b>Статус</b>: Завершен
+<b>Project №3</b>
+<br><b>Customer</b>: A startup that sells food.
+<br><b>Task</b>: We need to figure out how the users of the mobile application behave. Explore the sales funnel. Find out how users reach the purchase. How many users reach the purchase, and how many are "stuck" in the previous steps? Which ones exactly?
+After that, examine the results of the A/A/B experiment. Designers wanted to change fonts throughout the application, and managers were afraid that users would be unusual. We agreed to make a decision based on the results of the A/A/B test.
+<br><b>Result</b>: The features of user behavior are revealed, the results of A/B tests are analyzed
+<br><b>Status</b>: Completed
+<br><b>Used libraries</b>: Python, Pandas, Datetime, Seaborn, Matplotlib.pyplot, Plotly, Numpy, Scipy, Scipy.stats, Math
