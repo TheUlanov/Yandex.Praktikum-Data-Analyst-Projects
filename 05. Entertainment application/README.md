@@ -1,5 +1,6 @@
-<br><b>Проект №5</b>
-<br><b>Заказчик</b>: Развлекательное приложение
-<br><b>Задача</b>: Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Необходимо разобраться в причинах и помочь компании выйти в плюс.
-<br><b>Результат</b>: Выявлены лучшие каналы привлечения клиентов. Даные рекомендации по оптимизации маркетингового бюджета.
-<br><b>Статус</b>: Завершен
+<br><b>Project №5</b>
+<br><b>Customer</b>: Entertainment application
+<br><b>Task</b>: Despite huge investments in advertising, the company has been suffering losses for the last few months. It is necessary to understand the reasons and help the company to become a plus.
+<br><b>Result</b>: The best channels for attracting customers have been identified. These recommendations are for optimizing the marketing budget.
+<br><b>Status</b>: Completed
+<br><b>Used libraries</b>: Python, Pandas, Numpy, Datetime, Matplotlib
