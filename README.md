@@ -1,57 +1,69 @@
-# Yandex.Praktikum-Data-Science-Projects
-Repository containing portfolio of data science projects completed by Pavel Ulanov during the training courses at Yandex.Praktikum Presented in the form of Jupyter Notebook and readme markdown files.
 
-<br><b>Проект №2</b>
-<br> <b>Заказчик</b>: Инвестиционный фонд
-<br> <b>Задача</b>: Заказчик хочет открыть новое направление деятельности. В связи с чем, собирается открыть общественного питания в Москве. Необходимо подготовить исследование рынка общественного питания в Москве, найти интересные особенности и презентовать полученные результаты, которые в будущем помогут в выборе подходящего инвесторам места. Дать рекомендации заказчику по выбору типа заведения и места размещения.
-<br><b>Результат</b>: Выявлен конкретный список требований для открытия нового направления деятельности
-<br><b>Статус</b>: Завершен
 
-<br><b>Проект №3</b>
-<br><b>Заказчик</b>: Стартап, который продаёт продукты питания.
-<br><b>Задача</b>: Нужно разобраться, как ведут себя пользователи мобильного приложения. Изучить воронку продаж. Узнайть, как пользователи доходят до покупки. Сколько пользователей доходит до покупки, а сколько — «застревает» на предыдущих шагах? На каких именно?
-После этого исследовать результаты A/A/B-эксперимента. Дизайнеры захотели поменять шрифты во всём приложении, а менеджеры испугались, что пользователям будет непривычно. Договорились принять решение по результатам A/A/B-теста. 
-<br><b>Результат</b>: Выявлены особенности поведения пользователей, проанализированы результаты А/В тестов
-<br><b>Статус</b>: Завершен
+<center><h1>Yandex.Praktikum Data Science Projects</h1></center>
+<a href="https://praktikum.yandex.ru/"><img width=100% src="https://miro.medium.com/max/1400/0*uVP0WwEWOtpHs40E.png"></a><br><br>
+<p align=center>
+Repository containing portfolio of data science projects completed by Pavel Ulanov during the training courses at <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a> Presented in the form of Jupyter Notebook and readme markdown files.<br>
+</p><br>
 
-<br><b>Проект №4</b>
-<br><b>Заказчик</b>: Интернет-магазин
-<br><b>Задача</b>: Приоритизации гипотез отдела маркетинга для увеличения выручки. Вычисление статистической значимости расхождения данных по тестам. Анализ и визуализация результатов А\В тестов. Необходимо дать рекомендация по итогам тестов.
-<br><b>Результат</b>: Произведена приоритизация гипотез. Даны рекомендации по результатам анализа А/В тестов
-<br><b>Статус</b>: Завершен
 
-<br><b>Проект №5</b>
-<br><b>Заказчик</b>: Развлекательное приложение
-<br><b>Задача</b>: Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Необходимо разобраться в причинах и помочь компании выйти в плюс.
-<br><b>Результат</b>: Выявлены лучшие каналы привлечения клиентов. Даные рекомендации по оптимизации маркетингового бюджета.
-<br><b>Статус</b>: Завершен
+<table width=100% valign=top >
+  <tr>
+    <td width=25%>Project</td>
+    <td>Description</td>
+    <td width=20%>Used libraries</td>
+  </tr>
+        <tr>
+    <td>Project №1</td>
+    <td>  </td>
+    <td> test </td>
+  </tr>
+        <tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/02.%20Public%20catering%20market%20in%20Moscow">Project №2</a></td>
+    <td> The customer wants to open a new line of business. In this connection, he is going to open a public catering in Moscow. It is necessary to prepare a study of the catering market in Moscow, find interesting features and present the results obtained, which in the future will help in choosing a suitable place for investors. Give recommendations to the customer on the choice of the type of institution and location. </td>
+    <td> </td>
+  </tr>
 
-<br><b>Проект №6</b>
-<br><b>Заказчик</b>: Интернет магазин по продаже компьютерных игр
-<br><b>Задача</b>: Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
-<br><b>Результат</b>: Определены критерии успешности игр по различным регионам. 
-<br><b>Статус</b>: Завершен
-
-<br><b>Проект №7</b>
-<br><b>Заказчик</b>: Оператор сотовой связи
-<br><b>Задача</b>: Для корректировки рекламного бюджта, необходимо выявить самые перспективные и прибыльные тарифы и проанализировать клиентское поведения. Дополнительно необходимо протестировать гипотезы отдела маркетинга.
-<br><b>Результат</b>: Определены лучшие тарифы, гипотезы протестированы.
-<br><b>Статус</b>: Завершен
-
-<br><b>Проект №8</b>
-<br><b>Заказчик</b>: Риэлторское агентство
-<br><b>Задача</b>: Выявить основные особенности и тенденции рынка недвижимости Санкт-Петербурга. Анализ формирования цены на недвижимость.
-<br><b>Результат</b>: Выявлены пиковые диапазоны цен в различных районах. Определена взаимосвязь между параметрами недвижимости и конечной стоимостью.
-<br><b>Статус</b>: Завершен
-
-<br><b>Проект №9</b>
-<br><b>Заказчик</b>: Кредитный отдел банка
-<br><b>Задача</b>: Необходимо выявить зависимость критениев кредитной заявки заемщика и сроков возврата средств.
-<br><b>Результат</b>: Описан "идеальный" портрет клиента. Даны рекомендации по улучшению работы отдела
-<br><b>Статус</b>: Завершен
-
-<br><b>Проект №10</b>
-<br><b>Заказчик</b>:
-<br><b>Задача</b>:
-<br><b>Результат</b>:
-<br><b>Статус</b>: Завершен
+<tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/03.%20Food%20sales">Project №3</a></td>
+    <td>We need to figure out how the users of the mobile application behave. Explore the sales funnel. Find out how users reach the purchase. How many users reach the purchase, and how many are "stuck" in the previous steps? Which ones exactly?
+After that, examine the results of the A/A/B experiment. Designers wanted to change fonts throughout the application, and managers were afraid that users would be unusual. We agreed to make a decision based on the results of the A/A/B test.</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/04.%20Online%20store">Project №4</a></td>
+    <td>Prioritization of marketing department hypotheses to increase revenue. Calculation of the statistical significance of the discrepancy of test data. Analysis and visualization of A\B test results. It is necessary to give a recommendation based on the results of the tests.</td>
+    <td> </td>
+  </tr>
+  
+<tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/05.%20Entertainment%20application">Project №5</a></td>
+    <td>Despite huge investments in advertising, the company has been suffering losses for the past few months. It is necessary to understand the reasons and help the company to become a plus.</td>
+    <td> </td>
+  </tr>
+<tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/06.%20Sale%20of%20computer%20games">Project №6</a></td>
+    <td>It is necessary to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns</td>
+    <td> </td>
+  </tr>
+  
+<tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/07.%20Mobile%20operator">Project №7</a></td>
+    <td>To adjust the advertising budget, it is necessary to identify the most promising and profitable tariffs and analyze customer behavior. Additionally, it is necessary to test the hypotheses of the marketing department.</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/08.%20Real%20estate%20agency">Project №8</a></td>
+    <td>To identify the main features and trends of the real estate market of St. Petersburg. Analysis of the formation of real estate prices.</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/09.%20Credit%20department%20of%20the%20bank">Project №9</a></td>
+    <td>It is necessary to identify the dependence of the criteria of the borrower's loan application and the terms of repayment of funds.</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/10.%20Yandex%20Music">Project №10</a></td>
+    <td>It is necessary to identify the main preferences of users of the service in different cities. Manually test two hypotheses</td>
+    <td> </td>
+  </tr>
