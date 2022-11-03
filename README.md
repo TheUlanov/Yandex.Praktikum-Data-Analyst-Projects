@@ -60,10 +60,10 @@ After that, examine the results of the A/A/B experiment. Designers wanted to cha
   <tr>
     <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/09.%20Credit%20department%20of%20the%20bank">Project №9</a></td>
     <td>It is necessary to identify the dependence of the criteria of the borrower's loan application and the terms of repayment of funds.</td>
-    <td>Python, Pandas, </td>
+    <td>Python, Pandas, exploratory data analysis,  data preprocessing</td>
   </tr>
   <tr>
     <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/10.%20Yandex%20Music">Project №10</a></td>
     <td>It is necessary to identify the main preferences of users of the service in different cities. Manually test two hypotheses</td>
-    <td>Python, Pandas, </td>
+    <td>Python, Pandas, exploratory data analysis,  data preprocessing</td>
   </tr>
