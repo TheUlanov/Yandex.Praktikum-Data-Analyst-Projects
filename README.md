@@ -14,9 +14,9 @@ Repository containing portfolio of data analysis projects completed by Pavel Ula
     <td width=20%>Used libraries</td>
   </tr>
         <tr>
-    <td>Project №1</td>
+    <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Analyst-Projects/tree/main/01.%20Banks.%20Analysis%20of%20customer%20outflow">Project №1</a></td>
     <td> soon </td>
-    <td> soon </td>
+    <td> Python, Pandas, numpy, stats, matplotlib.pyplot, plotly.express, plotly.graph_objects, seaborn, math, create_engine, exploratory data analysis, data preprocessing </td>
   </tr>
         <tr>
     <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Science-Projects/tree/main/02.%20Public%20catering%20market%20in%20Moscow">Project №2</a></td>
