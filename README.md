@@ -15,7 +15,7 @@ Repository containing portfolio of data analysis projects completed by Pavel Ula
   </tr>
         <tr>
     <td><a href="https://github.com/TheUlanov/Yandex.Praktikum-Data-Analyst-Projects/tree/main/01.%20Banks.%20Analysis%20of%20customer%20outflow">Project №1</a></td>
-    <td> soon </td>
+    <td> Analysis and identification of the reasons for the outflow of customers from the bank. Testing the hypotheses of the marketing department. Creating a portrait of the client </td>
     <td> Python, Pandas, numpy, stats, matplotlib.pyplot, plotly.express, plotly.graph_objects, seaborn, math, create_engine, exploratory data analysis, data preprocessing </td>
   </tr>
         <tr>
