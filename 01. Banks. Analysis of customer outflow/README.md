@@ -5,4 +5,4 @@
 <br>        - Portraits of clients inclined to leave the bank are highlighted. 
 <br>        - Statistical hypotheses are formulated and tested.
 <br><b>Status</b>: Completed
-<br><b>Used libraries</b>: Python, Pandas, exploratory data analysis, data preprocessing
+<br><b>Used libraries</b>: Python, Pandas, create_engine,  exploratory data analysis, data preprocessing
